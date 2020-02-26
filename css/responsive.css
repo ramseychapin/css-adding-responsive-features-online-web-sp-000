@@ -30,6 +30,10 @@
     font-size: 2.2em;
   }
 
+  #social {
+    top: 72px;
+  }
+
 }
 
 @media (max-width: 750px) {
