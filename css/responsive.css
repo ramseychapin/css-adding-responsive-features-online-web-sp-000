@@ -43,7 +43,7 @@
 
 @media (max-width: 750px) {
   #navbar nav a {
-    
+    display: none;
   }
 
 
